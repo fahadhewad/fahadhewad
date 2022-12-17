@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! :wave:
 
-<!--
-**fahadhewad/fahadhewad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. My name is Fahad and I am a software engineer with a passion for solving complex problems and creating innovative solutions. :nerd_face:
 
-Here are some ideas to get you started:
+In my free time, I enjoy:
+- Solving coding challenges to keep my skills sharp :computer:
+- Playing chess to exercise my mind :chess_pawn:
+- Staying active by playing various sports :basketball: :soccer:
+- Immersing myself in the world of PC gaming :video_game:
+- Reading about new technology and staying up-to-date on industry trends :book:
+- Contributing to open source projects and collaborating with other developers :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java Joke: Why do Java developers wear glasses? Because they can't C#. :nerd_face:
+
+My top three skills are coding in Java, JavaScript and React
+
+Thanks for stopping by! I hope you find something of interest in my repositories. :smiley:
