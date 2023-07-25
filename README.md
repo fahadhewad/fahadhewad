@@ -10,8 +10,7 @@ In my free time, I enjoy:
 - Reading about new technology and staying up-to-date on industry trends :book:
 - Contributing to open source projects and collaborating with other developers :octocat:
 
-Java Joke: Why do Java developers wear glasses? Because they can't C#. :nerd_face:
 
-My top three skills are coding in Java, JavaScript and React
+My top three skills are coding in Java, Python and React
 
 Thanks for stopping by! I hope you find something of interest in my repositories. :smiley:
